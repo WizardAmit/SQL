@@ -15,3 +15,13 @@ Utilized SQL queries to gather data for creating comprehensive reports. Extracte
 
 # Version Control and Documentation:
 Managed SQL scripts and queries within version control systems like Git, ensuring collaboration and tracking changes effectively. Documented the database schema, SQL queries, and report generation process, enhancing project transparency and ease of understanding for other developers and stakeholders
+
+
+
+
+
+![SQL Pizza_Sales](https://github.com/WizardAmit/SQL/assets/150200139/a1e6c379-60bc-4aa1-b95f-7acdfe82f509)
+![SQL Pizza_Sales_1](https://github.com/WizardAmit/SQL/assets/150200139/1cc85aa9-ebbd-4f83-8360-419ffd85252b)
+![SQL Pizza_Sales_2](https://github.com/WizardAmit/SQL/assets/150200139/3f303446-a5d4-4d0a-9612-167acb94be3b)
+
+
