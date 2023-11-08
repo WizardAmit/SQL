@@ -18,7 +18,7 @@ Managed SQL scripts and queries within version control systems like Git, ensurin
 
 
 
-
+# Results:
 
 ![SQL Pizza_Sales](https://github.com/WizardAmit/SQL/assets/150200139/a1e6c379-60bc-4aa1-b95f-7acdfe82f509)
 ![SQL Pizza_Sales_1](https://github.com/WizardAmit/SQL/assets/150200139/1cc85aa9-ebbd-4f83-8360-419ffd85252b)
